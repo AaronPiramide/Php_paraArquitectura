@@ -1,4 +1,3 @@
-	
 name: Despliegue en EC2
 run-name: Haciendo un pull desde la ec2
 on: push
