@@ -18,7 +18,7 @@
         <h1>Prueba github actions</h1>
 
         echo "Que dice el tio"
-    >
+    ?>
     </main>
   
     </body>
