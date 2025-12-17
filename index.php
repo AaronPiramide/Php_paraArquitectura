@@ -8,17 +8,13 @@
     <meta name='viewport' content='width=device-width, initial-scale=1'>
 </head>
 
-<body>
-
-
-
-    <main>
-        <?php
+<body> 
+        
         <h1>Prueba github actions</h1>
-
+    <?php
         echo "Que dice el tio";
     ?>
-    </main>
+  
   
     </body>
 
